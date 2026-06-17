@@ -3,7 +3,7 @@
 A full-featured personal finance web app built with Python and Streamlit.
 Track your daily expenses, view analytics, and manage your spending — all from your browser!
 
-**Live App:** [Click here to try it](https://share.streamlit.io)  
+**Live App:** [Click here to try it](https://expense-tracker-web.streamlit.app/)  
 
 ---
 
